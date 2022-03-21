@@ -1,3 +1,3 @@
-# Demo_CITTI_WIN
+# CITTI_DEMO_WIN
 
 Next Try

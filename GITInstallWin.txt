@@ -43,3 +43,9 @@ Fork von rewegner zu wegnerreinhard
 In GitHub (unter wegnerreinhard) zum geforkten Repo wechseln. Unter Code - Clone - SSH auswählen. "Copy-Taste" => adresse in Clipboard.
 In Terminal:
 git clone git@github.com:wegnerreinhard/CITTI_Demo.git
+
+Fork über GitHub:
+Ein anderer User browsed: https://github.com/wegnerreinhard/CITTI_Demo_WIN
+Click "Fork-Button"
+=> Neues Repo in https://github.com/rewegner/CITTI_Demo_WIN
+Syncen mit upstream: FetchUpstream (2. Zeile, rechts)
